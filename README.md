@@ -1,6 +1,4 @@
-## Creating a Neural Network from Scratch
-
-### Directions
+## Creating an Artificial Neural Network (ANN) from Scratch
 
 In addition to implementing and training a neural network from scratch, this
 notebook will also cover a few other important topics. The reason for this is 
