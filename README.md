@@ -6,6 +6,6 @@ to try to help you answer some more profound or theoretical questions you may st
 about machine learning in general, and about neural networks specifically. These are:
 * see equivalency between logistic regression and single perceptron
 * understand optimization and why loss functions are used (rather than accuracy)
-* utilize power of PyTorch for applying chain rule and for optimization
+* utilize functionality of PyTorch (for applying chain rule and for optimization)
  
 
